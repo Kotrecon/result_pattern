@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Kotrecon/result_pattern)](https://github.com/Kotrecon/result_pattern)
+[![.NET](https://img.shields.io/badge/.NET-10.0-blue)](https://dotnet.microsoft.com/)
 
 > **«Мой подход к валидации: без атрибутов, без исключений для бизнес-ошибок — только явные, тестируемые и безопасные результаты»**
 
