@@ -1,7 +1,7 @@
 # 🧪 Result — Типобезопасная обработка результатов и ошибок в .NET
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Kotrecon/docker-cheatsheets)](https://github.com/Kotrecon/result_pattern)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Kotrecon/result_pattern)](https://github.com/Kotrecon/result_pattern)
 
 > **«Мой подход к валидации: без атрибутов, без исключений для бизнес-ошибок — только явные, тестируемые и безопасные результаты»**
 
